@@ -59,3 +59,6 @@ mostrar el nombre del diseño y el nombre del artista que lo publicó.
    - Listar clientes que no han iniciado sesión durante un período de tiempo
 específico, indicando su inactividad.
 
+## Diagrama Entidad-Relación
+
+![Diagrama DER FlashCookie](https://github.com/JamesBond-01/FlashcookieDB/assets/72282343/538f7308-4df6-4017-a229-22fe634bf8a5)
