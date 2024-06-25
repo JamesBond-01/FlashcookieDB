@@ -6,7 +6,7 @@ El sistema permite a los creadores de estampas publicar su tienda online con dif
 motivos. Luego un cliente busca una etiqueta en particular, por ejemplo “Júpiter” y la web
 lista todas las estampas que coinciden con esta etiqueta.
 Una vez elegida la estampa, el cliente elige qué tipo de producto quiere estampar. Las
-categorías son varias, desde Remeras, Almohadones hasta Zapatillas
+categorías son varias, desde Remeras, Almohadones hasta Zapatillas.
 
 ## Consigna
 ### Objetivos
@@ -67,4 +67,10 @@ específico, indicando su inactividad.
 
 ![flashcookie-EER-Diagram](https://github.com/JamesBond-01/FlashcookieDB/assets/72282343/4d516ae6-e2b3-449b-91ae-f828d94fa3d1)
 
+## About
 
+La base de datos se realizó a través de MySQL, realizando las consignas que se pedían para el TP.
+
+### Integrantes
+- Leandro Gómez
+- Lucas Solhaune
