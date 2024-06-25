@@ -62,3 +62,9 @@ específico, indicando su inactividad.
 ## Diagrama Entidad-Relación
 
 ![Diagrama DER FlashCookie](https://github.com/JamesBond-01/FlashcookieDB/assets/72282343/538f7308-4df6-4017-a229-22fe634bf8a5)
+
+## Diagrama de Base de Datos
+
+![flashcookie-EER-Diagram](https://github.com/JamesBond-01/FlashcookieDB/assets/72282343/4d516ae6-e2b3-449b-91ae-f828d94fa3d1)
+
+
