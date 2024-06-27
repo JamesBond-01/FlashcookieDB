@@ -3,4 +3,5 @@
 
 SELECT A.nombre AS nombre_artista, E.nombre AS nombre_diseño
 FROM artista A, estampa E
-WHERE E.id_artista = A.id_artista;
+WHERE E.id_artista = A.id_artista
+ORDER BY A.nombre;
