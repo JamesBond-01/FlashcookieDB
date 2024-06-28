@@ -6,4 +6,4 @@ FROM estampa E
 INNER JOIN cliente_estampa CE ON CE.id_estampa = E.id_estampa
 GROUP BY E.nombre
 ORDER BY COUNT(*) DESC
-LIMIT 5
+LIMIT 5;
